@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sample on</title><link>https://adriana-muller-br.github.io/tags/sample/</link><description>Recent content in Sample on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 21 Jun 2024 14:38:33 +0200</lastBuildDate><atom:link href="https://adriana-muller-br.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml"/><item><title>Sample blog content 1</title><link>https://adriana-muller-br.github.io/blog/sample/</link><pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate><guid>https://adriana-muller-br.github.io/blog/sample/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
+&lt;p>We will show some content that is supported:&lt;/p>
+&lt;h2 id="basic-syntax">Basic Syntax&lt;/h2>
+&lt;h3 id="headings">Headings&lt;/h3>
+&lt;pre tabindex="0">&lt;code># Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+&lt;/code>&lt;/pre>&lt;h2 id="heading-2">Heading 2&lt;/h2>
+&lt;h3 id="heading-3">Heading 3&lt;/h3>
+&lt;h4 id="heading-4">Heading 4&lt;/h4>
+&lt;h5 id="heading-5">Heading 5&lt;/h5>
+&lt;h6 id="heading-6">Heading 6&lt;/h6>
+&lt;h3 id="emphasis">Emphasis&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-text" data-lang="text">&lt;span style="display:flex;">&lt;span>*This text will be italic*
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_This will also be italic_
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>**This text will be bold**
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>__This will also be bold__
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_You **can** combine them_
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item></channel></rss>
